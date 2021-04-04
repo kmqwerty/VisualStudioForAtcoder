@@ -9,6 +9,8 @@ Cmake 3.18.0
 
 Python  3.9.2
 
+Visual Studio Community 2019 16.9.2
+
 # 必要なアプリケーションのインストール
 
 必要になるPythonやCmakeのインストールを行ってください。コマンドプロンプトにてパスを通してください。
