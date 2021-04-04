@@ -20,9 +20,9 @@ Visual Studio Community 2019 16.9.2
 pipからonline-judge-toolsを取得してください。
 
 コマンドプロンプトにて、
-
+```
 C:\Users\user1>python -m pip install online-judge-tools
-
+```
 と入力します。
 
 コマンドプロンプトにてojと入力してパスが通ってればOKです。
