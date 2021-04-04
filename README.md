@@ -13,7 +13,7 @@ Visual Studio Community 2019 16.9.2
 
 # 必要なアプリケーションのインストール
 
-必要になるPythonやCmakeのインストールを行ってください。コマンドプロンプトにてパスを通してください。
+必要になる[Python](https://www.python.org/downloads/)や[Cmake](https://cmake.org/download/)のインストールを行ってください。コマンドプロンプトにてパスを通してください。
 
 また、バッチファイル内で[Online-judge-tools](https://github.com/online-judge-tools/oj)を使用しています。
 
